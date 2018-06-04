@@ -1,15 +1,15 @@
 function [ out ] = generateFigures( spikes )
 
  
- %Figure 5
+ %Figure 6
  generateRawTraces( spikes)
  generateSpeedPETHS( spikes)
  generateSummaryPETHS( spikes)
  
- %Figure 6
+ %Figure 7
  generateITIPlot( spikes) 
  
- %Figure 7
+ %Figure 8
  generateBrightnessPlot( spikes) 
  
 end 
