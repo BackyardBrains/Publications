@@ -1,6 +1,6 @@
-# 2016 Nguyen et al: Grasshopper DCMD 
+# 2017 Nguyen et al: Grasshopper DCMD 
 
-Data and data analsys code used in: "Grasshopper DCMD: an undergraduate electrophysiology lab for investigating single-unit responses to behaviourally-relevant stimuli" by Dieu My T. Nguyen1, Mark Roper, Stanislav Mircic, Robert M. Olberg, and Gregory J. Gage in JUNE 2016
+Data and data analsys code used in: "Grasshopper DCMD: an undergraduate electrophysiology lab for investigating single-unit responses to behaviourally-relevant stimuli" by Dieu My T. Nguyen1, Mark Roper, Stanislav Mircic, Robert M. Olberg, and Gregory J. Gage in JUNE 2017 (PMID: 28690439 PMCID: PMC5480846)
 
  * /Data - A directory that contains the export of our dataset collected from our iOS app.
 
